@@ -11,8 +11,7 @@ public class Employee {
 	
 	public int getId() {
 		return id;
-System.out.println("id");
-System.out.println("id");
+
 	}
 	public void setId(int id) {
 		this.id = id;
